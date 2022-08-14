@@ -2,7 +2,7 @@
 <br/>
 
 ```
- React Native - Redux Toolkit - Expo - Custom Css
+ React Native - Redux Toolkit - Expo - Custom Css - Google Ads Bottom
 ```
 
 ```terminal
@@ -12,4 +12,4 @@
 
 #
 
-![](https://media.giphy.com/media/38CN681s7IPPJNQIYv/giphy.gif)
+![](https://media.giphy.com/media/NExNtrqYNGkTgJuIvD/giphy.gif)
