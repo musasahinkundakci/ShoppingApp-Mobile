@@ -2,7 +2,7 @@
 <br/>
 
 ```
- React Native - Redux Toolkit - Expo
+ React Native - Redux Toolkit - Expo - Custom Css
 ```
 
 ```terminal
@@ -12,4 +12,4 @@
 
 #
 
-![](https://media.giphy.com/media/NExNtrqYNGkTgJuIvD/giphy.gif)
+![](https://media.giphy.com/media/38CN681s7IPPJNQIYv/giphy.gif)
