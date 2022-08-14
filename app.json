@@ -1,0 +1,41 @@
+{
+    "expo": {
+        "name": "Paramız Değerli",
+        "slug": "paramiz-degerli",
+        "version": "1.0.1",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/logo.png",
+            "resizeMode": "contain",
+            "borderRadius": 10,
+            "backgroundColor": "#000"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": ["**/*"],
+        "ios": {
+            "supportsTablet": true,
+            "config": {
+                "googleMobileAdsAppId": ""
+            }
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/logo.png",
+                "backgroundColor": "#000"
+            },
+            "versionCode": 2,
+            "permissions": [],
+            "package": "com.phonenumber123.myapp",
+            "config": {
+                "googleMobileAdsAppId": ""
+            }
+        },
+        "web": {
+            "favicon": "./assets/logo.png"
+        }
+    }
+}
