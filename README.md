@@ -1,7 +1,7 @@
 # ShoppingApp-Mobile
 <br/>
 
-![](https://media.giphy.com/media/QFeCEKqHpRQnKfivOw/giphy.gif)
+![](https://media.giphy.com/media/NExNtrqYNGkTgJuIvD/giphy.gif)
 
 ```
  React Native - Redux Toolkit - Expo
