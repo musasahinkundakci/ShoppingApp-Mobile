@@ -10,6 +10,6 @@
  $ npm start
 ```
 
-#
+#########################
 
 ![](https://media.giphy.com/media/NExNtrqYNGkTgJuIvD/giphy.gif)
